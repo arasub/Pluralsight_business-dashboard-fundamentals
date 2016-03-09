@@ -1,0 +1,242 @@
+Country	Population	Date
+China	1347350000	31-Dec-11
+India	1210193422	1-Mar-11
+USA	314181000	18-Aug-12
+Indonesia	237641326	1-May-10
+Brazil	192376496	1-Jul-11
+Pakistan	180418000	18-Aug-12
+Nigeria	166629000	1-Jul-12
+Bangladesh	152518015	16-Jul-12
+Russia	143117000	1-Jun-12
+Japan	127550000	1-Jul-12
+Mexico	112336538	12-Jun-10
+Philippines	92337852	1-May-10
+Vietnam	87840000	1-Jul-11
+Ethiopia	84320987	1-Jul-12
+Egypt	82422000	18-Aug-12
+Germany	81859000	30-Nov-11
+Iran	75149669	24-Oct-11
+Turkey	74724269	31-Dec-11
+Democratic Republic of the Congo	69575000	1-Jul-12
+Thailand	65479453	1-Sep-10
+France	65350000	1-Jan-12
+UK	62262000	1-Jul-10
+Italy	60820787	31-Dec-11
+South Africa	50586757	1-Jul-11
+South Korea	50004441	1-Jul-12
+Myanmar	48724000	1-Jul-12
+Colombia	46657000	18-Aug-12
+Spain	46163116	1-Jul-12
+Ukraine	45565909	1-Jun-12
+Tanzania	43188000	1-Jul-10
+Argentina	40117096	27-Oct-10
+Kenya	38610097	24-Aug-09
+Poland	38511824	31-Mar-11
+Algeria	37100000	1-Jan-12
+Canada	34891200	18-Aug-12
+Iraq	33330000	1-Jul-11
+Uganda	32939800	1-Jul-11
+Morocco	32643400	18-Aug-12
+Sudan	30894000	22-Apr-08
+Peru	30135875	30-Jun-12
+Malaysia	29442000	18-Aug-12
+Uzbekistan	29123400	1-Jul-11
+Venezuela	28946101	30-Nov-11
+Saudi Arabia	27136977	28-Apr-10
+Nepal	26620809	22-Jun-11
+Afghanistan	25500100	1-Jan-13
+Ghana	24658823	26-Sep-10
+North Korea	24554000	1-Jul-12
+Yemen	24527000	1-Jul-12
+Mozambique	23700715	1-Jul-12
+Taiwan	23261747	30-Jun-12
+Australia	22702861	18-Aug-12
+Syria	21707000	18-Aug-12
+Ivory Coast	21395000	1-Jul-09
+Madagascar	20696070	1-Jul-11
+Angola	20609294	1-Jul-12
+Sri Lanka	20277597	20-Mar-12
+Cameroon	19406100	1-Jan-10
+Romania	19042936	20-Oct-11
+Chile	17402630	30-Jun-12
+Kazakhstan	16793000	1-Jul-12
+Netherlands	16740554	30-Jun-12
+Niger	16274738	1-Jul-12
+Malawi	15883000	1-Jul-12
+Burkina Faso	15730977	1-Jul-10
+Guatemala	14713763	1-Jul-11
+Mali	14528662	1-Apr-09
+Ecuador	14483499	28-Nov-10
+Cambodia	14478000	1-Jul-12
+Zambia	13092666	16-Oct-10
+Zimbabwe	13014000	1-Jul-12
+Senegal	12855153	1-Jul-11
+Chad	11274106	20-May-09
+Cuba	11247925	31-Dec-11
+Belgium	10839905	1-Jan-10
+Guinea	10824200	1-Jul-10
+Greece	10787690	24-May-11
+Rwanda	10718379	1-Jul-11
+Tunisia	10673800	1-Jul-11
+Portugal	10561614	21-Mar-11
+Czech Republic	10507566	31-Mar-12
+Bolivia	10426155	1-Jul-10
+Haiti	10085214	1-Jul-10
+Hungary	9957731	1-Jan-12
+Sweden	9507324	31-May-12
+Belarus	9457500	1-Jul-12
+Dominican Republic	9445281	1-Dec-10
+Benin	9352000	1-Jul-12
+Somalia[9]	9331000	1-Jul-10
+Azerbaijan	9235100	1-Jan-12
+Burundi	8749000	1-Jul-12
+Austria	8452835	1-Jul-12
+Honduras	8385072	1-Jul-12
+United Arab Emirates	8264070	1-Jul-10
+South Sudan	8260490	22-Apr-08
+Switzerland	7952600	31-Dec-11
+Israel	7890600	31-May-12
+Tajikistan	7800000	1-Jan-12
+Bulgaria	7364570	1-Feb-11
+Papua New Guinea	7170000	1-Jul-12
+Serbia	7120666	1-Oct-11
+Hong Kong	7103700	31-Dec-11
+Libya	6469000	1-Jul-12
+Laos	6465800	1-Jul-12
+Paraguay	6337127	1-Jul-10
+Jordan	6336300	18-Aug-12
+Togo	6191155	6-Nov-10
+El Salvador	6183000	30-Jun-10
+Sierra Leone	6126000	1-Jul-12
+Nicaragua	6071045	30-Jun-12
+Denmark	5584758	1-Apr-12
+Eritrea	5581000	1-Jul-12
+Kyrgyzstan	5477600	1-Jul-11
+Slovakia	5445324	30-Sep-11
+Finland	5417280	18-Aug-12
+Singapore	5183700	1-Jul-11
+Turkmenistan	5170000	1-Jul-12
+Norway	5029200	18-Aug-12
+Ireland	4588252	10-Apr-11
+Central African Republic	4576000	1-Jul-12
+Georgia	4497600	1-Jan-12
+New Zealand	4438700	18-Aug-12
+Costa Rica	4301712	3-Jun-11
+Palestine	4293313	1-Jul-12
+Lebanon	4292000	1-Jul-12
+Croatia	4290612	31-Mar-11
+Liberia	4245000	1-Jul-12
+Republic of the Congo	4233000	1-Jul-12
+Bosnia and Herzegovina	3868621	30-Jun-12
+Puerto Rico	3706690	1-Jul-11
+Kuwait	3582054	31-Dec-10
+Moldova	3559500	1-Jan-12
+Panama	3405813	16-May-10
+Mauritania	3378254	1-Jul-12
+Armenia	3275700	1-Jun-12
+Uruguay	3251526	30-Sep-11
+Lithuania	3182800	1-Jul-12
+Albania	2831741	1-Oct-11
+Oman	2773479	12-Dec-10
+Mongolia	2736800	1-Jul-09
+Jamaica	2709300	31-Dec-11
+Lesotho	2217000	1-Jul-12
+Namibia	2104900	28-Aug-11
+Latvia	2070371	1-Mar-11
+Macedonia	2059794	31-Dec-11
+Slovenia	2057750	18-Aug-12
+Botswana	2024904	22-Aug-11
+Gambia	1825000	1-Jul-12
+Qatar	1699435	21-Apr-10
+Gabon	1564000	1-Jul-12
+Guinea-Bissau	1520830	1-Mar-09
+Trinidad and Tobago	1317714	1-Jul-10
+Estonia	1294236	31-Mar-12
+Mauritius	1286051	1-Jul-11
+Bahrain	1234571	27-Apr-10
+Swaziland	1220000	1-Jul-12
+Timor-Leste	1066409	11-Jul-10
+Fiji	876000	1-Jul-12
+Cyprus	838897	1-Oct-11
+Djibouti	818159	29-May-09
+Réunion(France)	816364	1-Jan-09
+Guyana	784894	1-Jul-10
+Equatorial Guinea	740000	1-Jul-12
+Bhutan	720679	1-Jul-12
+Comoros	669300	1-Jul-09
+Montenegro	620029	1-Apr-11
+Macau	568700	30-Jun-12
+Western Sahara	567000	1-Jul-12
+Solomon Islands	553935	1-Jul-12
+Suriname	534000	1-Jul-12
+Luxembourg	511800	31-Dec-10
+Cape Verde	491875	16-Jun-10
+Malta	417617	31-Dec-10
+Guadeloupe	401554	1-Jan-09
+Martinique	396404	1-Jan-09
+Brunei	393162	20-Jun-11
+Bahamas	353658	3-May-10
+Iceland	320060	1-Apr-12
+Maldives	317280	1-Jul-10
+Belize	312971	12-May-10
+French Polynesia	277000	1-Jul-12
+Barbados	274200	1-Jul-10
+New Caledonia	245580	27-Jul-09
+Vanuatu	234023	16-Nov-09
+French Guiana	224469	1-Jan-09
+Mayotte	217000	1-Jul-12
+Samoa	186340	7-Nov-11
+São Tomé and Príncipe	172000	1-Jul-12
+Saint Lucia	166526	10-May-10
+Guam	159358	1-Apr-10
+Curacao	149679	26-Mar-11
+Grenada	110821	1-Jul-09
+United States Virgin Islands	106405	1-Apr-10
+Tonga	103036	30-Nov-11
+Kiribati	103000	1-Jul-12
+Federated States of Micronesia	102843	4-Apr-10
+Aruba	101484	29-Sep-10
+Saint Vincent and the Grenadines	100892	1-Jul-09
+Jersey(UK)	97857	27-Mar-11
+Seychelles	90945	26-Aug-10
+Antigua and Barbuda	86295	27-May-11
+Isle of Man(UK)	84497	27-Mar-11
+Andorra	78115	1-Jul-11
+Dominica	71293	14-May-11
+Bermuda	64237	20-May-10
+Guemsey	62431	31-Mar-10
+Greenland	56749	1-Jan-12
+American Samoa	55519	1-Apr-10
+Cayman Islands	55456	10-Oct-10
+Marshall Islands	54305	1-Jul-10
+Northern Mariana Islands	53883	1-Apr-10
+Saint Kitts and Nevis	51970	1-Jul-09
+Faroe Islands	48386	1-May-12
+Sint Maaten	37429	1-Jan-10
+Saint Martin	36824	1-Jan-09
+Liechtenstein	36476	31-Dec-11
+Monaco	35000	1-Jul-12
+San Marino	32380	30-Jun-12
+Turks and Caicos Islands	31458	25-Jan-12
+Gibraltar	29752	1-Jul-11
+British Virbin Islands	29537	1-Jul-10
+land Islands	28355	31-Dec-11
+Caribbean Netherlands	21133	1-Jan-11
+Palau	21000	1-Jul-12
+Cook Islands	17791	1-Dec-11
+Anguilla	13452	11-May-11
+Wallis and Futuna	13000	1-Jul-12
+Nauru	10000	1-Jul-12
+Tuvalu	10000	1-Jul-12
+Saint Barthélemy(France)	8902	1-Jan-09
+Saint Pierre and Miquelon	6082	1-Jan-09
+Montserrat	4922	12-May-11
+"Saint Helena, Ascension and Tristan da Cunha"	4000	1-Jul-12
+Falkland Islands	3000	1-Jul-12
+Svalbard and Jan Mayen	2495	1-Mar-10
+Norfolk Island	2302	9-Aug-11
+Christmas Island	2072	9-Aug-11
+Tokelau	1411	18-Oct-11
+Niue	1000	1-Jul-12
+Vatican City	800	1-Mar-11
+Pitcairn Islands	66	1-Jul-08
